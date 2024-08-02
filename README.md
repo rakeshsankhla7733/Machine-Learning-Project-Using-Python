@@ -56,7 +56,7 @@ The models are evaluated using the R-squared (R²) score. Here are the R² score
 * Ridge Regression: 0.5356
 * Lasso Regression: 0.5356
 * AdaBoost Regressor: 0.6065
-The Random Forest Regressor and XGBoost Regressor provided the best performance with R² scores of 0.6601 and 0.6613, respectively.
+- The Random Forest Regressor and XGBoost Regressor provided the best performance with R² scores of 0.6601 and 0.6613, respectively.
 
 ## 7. Model Improvement
 To further improve the model's performance, the following steps are suggested:
