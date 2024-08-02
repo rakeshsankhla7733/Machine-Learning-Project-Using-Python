@@ -4,7 +4,7 @@ Using Python we predict certain information for business scenarios to gain meani
 This project focuses on predicting salaries using various machine learning models. The notebook outlines the entire process, from data loading and preprocessing to model training, evaluation, and selection.
 
 # Table of Contents
-Introduction
+* 1 .Introduction
 Data Loading and Preprocessing
 Exploratory Data Analysis (EDA)
 Feature Engineering
